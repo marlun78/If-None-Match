@@ -2,13 +2,13 @@
   "name": "if-none-match",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server"
   },
   "dependencies": {
     "express": "4.17.1"
   },
   "engines": {
-    "node": "12.11.x"
+    "node": "12.11.0",
+    "npm": "6.11.3"
   }
 }
